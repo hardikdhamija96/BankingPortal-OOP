@@ -1,5 +1,5 @@
 class Customer{
-    constructor(customerId, name){
+    constructor(name, customerId){
         this.name = name;
         this.customerId = customerId;
     }
